@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "omarview",
+  "name": "Omarview",
+  "version": "1.0.0",
+  "author": "ergofobe",
+  "description": "Mission Control style view of workspaces and their windows",
+  "kinds": ["overlay"],
+  "keepLoaded": true,
+  "entryPoints": {
+    "overlay": "Overview.qml"
+  }
+}

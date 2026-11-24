@@ -1,0 +1,9 @@
+{
+  "hint": "Arrow keys move · Enter opens · Esc closes",
+  "empty": "Empty",
+  "none": "No workspaces yet",
+  "windows": {
+    "one": "%1 window",
+    "other": "%1 windows"
+  }
+}
