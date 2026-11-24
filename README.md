@@ -2,6 +2,8 @@
 
 Mission Control for [Omarchy](https://omarchy.org/). One overlay shows your workspaces and the windows on them, with a live picture of each window.
 
+![Omarview open over the desktop, with a card for each workspace and a live picture of its windows](docs/screenshot.png)
+
 Open it from the top-right corner of the screen, or with F3. On a Mac keyboard the F3 key sends `XF86LaunchA` unless Fn is held, so both keys are bound. Arrow keys move between workspaces and windows, Enter opens the selection, and Esc closes the view. Click a window to focus it, or click the empty area around the cards to close.
 
 ## Install
