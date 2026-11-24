@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
-  "id": "omarview",
+  "id": "ergofobe.omarview",
   "name": "Omarview",
   "version": "1.0.0",
   "author": "ergofobe",
+  "license": "Apache-2.0",
   "description": "Mission Control style view of workspaces and their windows",
   "kinds": ["overlay"],
   "keepLoaded": true,

@@ -97,7 +97,7 @@ Item {
 
   function dismiss() {
     root.opened = false
-    var id = (root.manifest && root.manifest.id) || "omarview"
+    var id = (root.manifest && root.manifest.id) || "ergofobe.omarview"
     if (root.shell && typeof root.shell.hide === "function")
       root.shell.hide(id)
   }

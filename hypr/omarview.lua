@@ -41,7 +41,7 @@ _G.omarview_hotcorner = hl.timer(function()
     if hits >= DWELL_HITS then
       latched = true
       hits = 0
-      hl.exec_cmd("omarchy-shell -q shell toggle omarview")
+      hl.exec_cmd("omarchy-shell -q shell toggle ergofobe.omarview")
     end
   else
     hits = 0
